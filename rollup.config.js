@@ -67,7 +67,9 @@ export default [
         react: 'React',
         'styled-components': 'styled',
         'prop-types': 'PropTypes',
-        'prop-types/checkPropTypes': 'checkPropTypes'
+        'prop-types/checkPropTypes': 'checkPropTypes',
+        '@material-ui/core': 'MaterialCore',
+        '@material-ui/lab': 'MaterialLab',
       },
       format: 'umd'
     },
